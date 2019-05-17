@@ -122,7 +122,7 @@ let words = {
     "suffering",
     "crucifix",
     "demon",
-    "cadaver"
+    "cadaver",
     "hellhounds"
   ]
 }
